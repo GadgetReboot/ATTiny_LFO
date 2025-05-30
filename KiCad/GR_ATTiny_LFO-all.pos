@@ -1,0 +1,42 @@
+### Footprint positions - created on 2025-05-24T18:52:35-0400 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val            Package                                             PosX       PosY       Rot  Side
+G***      LOGO           pcb_way_logo                                     35.6250    20.3500  180.0000  bottom
+C1        100nF          C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      26.8750    11.8500   90.0000  top
+C2        100nF          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       6.5500    26.1750   90.0000  top
+C3        100nF          C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      34.0500    11.6950   90.0000  top
+C4        10uF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      12.4250     9.9750    0.0000  top
+C5        10uF           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      12.4000     7.5750    0.0000  top
+C6        100nF          C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      38.2750    11.6750  180.0000  top
+D1        LED            LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    42.7500    23.0250  180.0000  top
+D2        LED            LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    28.2000    22.9750  180.0000  top
+D3        Power          LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    19.7750    12.9750    0.0000  top
+J1        Conn_01x03     PinHeader_1x03_P2.54mm_Vertical                   4.1950    35.0000   90.0000  top
+J2        Conn_01x05     PinHeader_1x05_P2.54mm_Vertical                  22.6050     1.7500   90.0000  top
+J3        Conn_01x03     PinHeader_1x03_P2.54mm_Vertical                  14.1850    35.0000   90.0000  top
+J4        Conn_01x05     PinHeader_1x05_P2.54mm_Vertical                   1.6500    14.5850  180.0000  top
+J5        1x2            PinHeader_1x02_P2.54mm_Vertical                  17.5250     1.7500   90.0000  top
+R1        1K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      41.8250     2.0250    0.0000  top
+R2        380r           R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      41.8250     3.9500  180.0000  top
+R3        100r           R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      20.9500    18.1750  -90.0000  top
+R4        1K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder       9.6500    32.2500    0.0000  top
+R5        1K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      47.0250    10.8400   90.0000  top
+R6        380r           R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      43.0750    13.8250  180.0000  top
+R7        10K            R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      20.1250    30.3250  -90.0000  top
+R8        10K            R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      18.0750    30.4000  -90.0000  top
+R9        100r           R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      35.5750    18.1350  -90.0000  top
+R10       1K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      38.5000    23.0250  180.0000  top
+R11       1K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      23.8750    23.0250  180.0000  top
+R12       1K             R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      19.7500    10.5750    0.0000  top
+R13       10K            Potentiometer_Bourns_PTV09A-1                    45.0750    26.5750   90.0000  top
+R14       10K            Potentiometer_Bourns_PTV09A-1                    30.5750    26.5000   90.0000  top
+SW1       SW_Push        SW_SPST_60x35                                    28.2140    17.6710    0.0000  top
+SW2       SW_Push        SW_SPST_60x35                                    42.8140    17.6210    0.0000  top
+U1        TLC272         SOIC-8_3.9x4.9mm_P1.27mm                         43.0250     9.0500   90.0000  top
+U2        MCP4725        SOT-23-6                                         24.0350    11.8250   90.0000  top
+U3        MCP4725        SOT-23-6                                         31.1350    11.7250   90.0000  top
+U4        ATtiny1604-SS  SOIC-14_3.9x8.7mm_P1.27mm                        12.3750    26.7000   90.0000  top
+U5        AMS1117-5.0    SOT-223-3_TabPin2                                 6.1250     7.5500  180.0000  top
+## End
